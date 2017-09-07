@@ -1,11 +1,13 @@
-# practice2
-practice2
-<iDoctype html>       
+<!doctype html>
+
+<head>
+
+<title>ycs의 첫 github 페이지</title>
+
+</head>
+
 <body>
-    <script>
-        var a = 5;
-        var b = 6;
-        console.log(a+b);
-    </script>
+
+<h1>Hello, World!</h1>
+
 </body>
-</html>  
